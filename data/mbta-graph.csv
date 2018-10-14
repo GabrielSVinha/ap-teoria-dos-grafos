@@ -1,101 +1,215 @@
 Source,Target,Label
-place-jfk,place-andrw,red
-place-andrw,place-jfk,red
-place-knncl,place-chmnl,red
-place-chmnl,place-knncl,red
-place-andrw,place-brdwy,red
-place-brdwy,place-andrw,red
-place-qamnl,place-qnctr,red
-place-qnctr,place-qamnl,red
-place-pktrm,place-bomnl,red
-place-bomnl,place-pktrm,red
-place-smmnl,place-cntsq,red
-place-cntsq,place-smmnl,red
-place-portr,place-davis,red
-place-davis,place-portr,red
-place-sstat,place-dwnxg,red
-place-dwnxg,place-sstat,red
-place-asmnl,place-fldcr,red
-place-fldcr,place-asmnl,red
-place-cntsq,place-harsq,red
-place-harsq,place-cntsq,red
-place-shmnl,place-jfk,red
-place-jfk,place-shmnl,red
-place-bomnl,place-smmnl,red
-place-smmnl,place-bomnl,red
-place-alfcl,place-shmnl,red
-place-shmnl,place-alfcl,red
-place-dwnxg,place-pktrm,red
-place-pktrm,place-dwnxg,red
-place-harsq,place-portr,red
-place-portr,place-harsq,red
-place-qnctr,place-wlsta,red
-place-wlsta,place-qnctr,red
-place-wlsta,place-nqncy,red
-place-nqncy,place-wlsta,red
-place-fldcr,place-shmnl,red
-place-shmnl,place-fldcr,red
-place-chmnl,place-asmnl,red
-place-asmnl,place-chmnl,red
-place-brdwy,place-sstat,red
-place-sstat,place-brdwy,red
-place-nqncy,place-alfcl,red
-place-alfcl,place-nqncy,red
-place-masta,place-bbsta,orange
-place-bbsta,place-masta,orange
-place-north,place-ccmnl,orange
-place-ccmnl,place-north,orange
-place-brntn,place-sstat,orange
-place-sstat,place-brntn,orange
-place-sstat,place-grnst,orange
-place-grnst,place-sstat,orange
-place-chncl,place-tumnl,orange
-place-tumnl,place-chncl,orange
-place-tumnl,place-forhl,orange
-place-forhl,place-tumnl,orange
-place-state,place-haecl,orange
-place-haecl,place-state,orange
-place-sbmnl,place-jaksn,orange
-place-jaksn,place-sbmnl,orange
-place-rugg,place-masta,orange
-place-masta,place-rugg,orange
-place-welln,place-mlmnl,orange
-place-mlmnl,place-welln,orange
-place-haecl,place-north,orange
-place-north,place-haecl,orange
-place-jaksn,place-rcmnl,orange
-place-rcmnl,place-jaksn,orange
-place-rcmnl,place-rugg,orange
-place-rugg,place-rcmnl,orange
-place-forhl,place-sbmnl,orange
-place-sbmnl,place-forhl,orange
-place-grnst,place-state,orange
-place-state,place-grnst,orange
-place-ccmnl,place-sull,orange
-place-sull,place-ccmnl,orange
-place-bbsta,place-brntn,orange
-place-brntn,place-bbsta,orange
-place-sull,place-welln,orange
-place-welln,place-sull,orange
-place-ogmnl,place-orhte,blue
-place-orhte,place-ogmnl,blue
-place-mvbcl,place-rbmnl,blue
-place-rbmnl,place-mvbcl,blue
-place-wondl,place-wimnl,blue
-place-wimnl,place-wondl,blue
-place-gover,place-aqucl,blue
-place-aqucl,place-gover,blue
-place-aqucl,place-grnst,blue
-place-grnst,place-aqucl,blue
-place-rbmnl,place-ogmnl,blue
-place-ogmnl,place-rbmnl,blue
-place-sdmnl,place-bmmnl,blue
-place-bmmnl,place-sdmnl,blue
-place-wimnl,place-aport,blue
-place-aport,place-wimnl,blue
-place-bmmnl,place-wondl,blue
-place-wondl,place-bmmnl,blue
-place-grnst,place-mvbcl,blue
-place-mvbcl,place-grnst,blue
-place-orhte,place-sdmnl,blue
-place-sdmnl,place-orhte,blue
+JFK/UMass Station,Andrew Station,red
+Andrew Station,JFK/UMass Station,red
+Kendall/MIT Station,Charles/MGH Station,red
+Charles/MGH Station,Kendall/MIT Station,red
+Andrew Station,Broadway Station,red
+Broadway Station,Andrew Station,red
+Quincy Adams Station,Quincy Center Station,red
+Quincy Center Station,Quincy Adams Station,red
+Park St. Station,Arlington,red
+Arlington,Park St. Station,red
+Shawmut Station,Central Square Station,red
+Central Square Station,Shawmut Station,red
+Porter Square Station,Davis Station,red
+Davis Station,Porter Square Station,red
+South Station,Downtown Crossing Station,red
+Downtown Crossing Station,South Station,red
+Ashmont Station,Fields Corner Station,red
+Fields Corner Station,Ashmont Station,red
+Central Square Station,Harvard Square Station,red
+Harvard Square Station,Central Square Station,red
+Savin Hill Station,JFK/UMass Station,red
+JFK/UMass Station,Savin Hill Station,red
+Arlington,Shawmut Station,red
+Shawmut Station,Arlington,red
+Alewife Station,Savin Hill Station,red
+Savin Hill Station,Alewife Station,red
+Downtown Crossing Station,Park St. Station,red
+Park St. Station,Downtown Crossing Station,red
+Harvard Square Station,Porter Square Station,red
+Porter Square Station,Harvard Square Station,red
+Quincy Center Station,Wollaston Station,red
+Wollaston Station,Quincy Center Station,red
+Wollaston Station,North Quincy Station,red
+North Quincy Station,Wollaston Station,red
+Fields Corner Station,Savin Hill Station,red
+Savin Hill Station,Fields Corner Station,red
+Charles/MGH Station,Ashmont Station,red
+Ashmont Station,Charles/MGH Station,red
+Broadway Station,South Station,red
+South Station,Broadway Station,red
+North Quincy Station,Alewife Station,red
+Alewife Station,North Quincy Station,red
+Massachusetts Ave. Station,Back Bay Station,orange
+Back Bay Station,Massachusetts Ave. Station,orange
+North Station,Community College Station,orange
+Community College Station,North Station,orange
+Braintree Station,South Station,orange
+South Station,Braintree Station,orange
+South Station,Green St. Station,orange
+Green St. Station,South Station,orange
+Chinatown Station,Tufts Medical Center Station,orange
+Tufts Medical Center Station,Chinatown Station,orange
+Tufts Medical Center Station,Forest Hills Station,orange
+Forest Hills Station,Tufts Medical Center Station,orange
+State St. Station,Haymarket Station,orange
+Haymarket Station,State St. Station,orange
+Stony Brook Station,Jackson Square Station,orange
+Jackson Square Station,Stony Brook Station,orange
+Ruggles Station,Massachusetts Ave. Station,orange
+Massachusetts Ave. Station,Ruggles Station,orange
+Wellington Station,Malden Center Station,orange
+Malden Center Station,Wellington Station,orange
+Haymarket Station,North Station,orange
+North Station,Haymarket Station,orange
+Jackson Square Station,Roxbury Crossing Station,orange
+Roxbury Crossing Station,Jackson Square Station,orange
+Roxbury Crossing Station,Ruggles Station,orange
+Ruggles Station,Roxbury Crossing Station,orange
+Forest Hills Station,Stony Brook Station,orange
+Stony Brook Station,Forest Hills Station,orange
+Green St. Station,State St. Station,orange
+State St. Station,Green St. Station,orange
+Community College Station,Sullivan Station,orange
+Sullivan Station,Community College Station,orange
+Back Bay Station,Braintree Station,orange
+Braintree Station,Back Bay Station,orange
+Sullivan Station,Wellington Station,orange
+Wellington Station,Sullivan Station,orange
+Oak Grove Station,Orient Heights Station,blue
+Orient Heights Station,Oak Grove Station,blue
+Maverick Station,Revere Beach Station,blue
+Revere Beach Station,Maverick Station,blue
+Wonderland Station,Wood Island Station,blue
+Wood Island Station,Wonderland Station,blue
+Government Center Station,Aquarium Station,blue
+Aquarium Station,Government Center Station,blue
+Aquarium Station,Green St. Station,blue
+Green St. Station,Aquarium Station,blue
+Revere Beach Station,Oak Grove Station,blue
+Oak Grove Station,Revere Beach Station,blue
+Suffolk Downs Station,Beachmont Station,blue
+Beachmont Station,Suffolk Downs Station,blue
+Wood Island Station,Airport Station,blue
+Airport Station,Wood Island Station,blue
+Beachmont Station,Wonderland Station,blue
+Wonderland Station,Beachmont Station,blue
+Green St. Station,Maverick Station,blue
+Maverick Station,Green St. Station,blue
+Orient Heights Station,Suffolk Downs Station,blue
+Suffolk Downs Station,Orient Heights Station,blue
+Boylston,Downtown Crossing Station,green
+Downtown Crossing Station,Boylston,green
+Downtown Crossing Station,Aquarium Station,green
+Aquarium Station,Downtown Crossing Station,green
+Aquarium Station,State St. Station,green
+State St. Station,Aquarium Station,green
+State St. Station,Haymarket Station,green
+Haymarket Station,State St. Station,green
+Haymarket Station,Boylston,green
+Boylston,Haymarket Station,green
+Boylston,Science Park/West End,green
+Science Park/West End,Boylston,green
+South Station,Bowdoin Station,silver
+Bowdoin Station,South Station,silver
+Braintree Station,South Station,silver
+South Station,Braintree Station,silver
+Broadway Station,Braintree Station,silver
+Braintree Station,Broadway Station,silver
+Lechmere,Riverside,green
+Riverside,Lechmere,green
+Riverside,Woodland,green
+Woodland,Riverside,green
+Woodland,Waban,green
+Waban,Woodland,green
+Waban,Eliot,green
+Eliot,Waban,green
+Eliot,Newton Highlands,green
+Newton Highlands,Eliot,green
+Newton Highlands,Newton Centre,green
+Newton Centre,Newton Highlands,green
+Newton Centre,Chestnut Hill,green
+Chestnut Hill,Newton Centre,green
+Chestnut Hill,Reservoir,green
+Reservoir,Chestnut Hill,green
+Reservoir,Beaconsfield,green
+Beaconsfield,Reservoir,green
+Beaconsfield,Brookline Hills,green
+Brookline Hills,Beaconsfield,green
+Brookline Hills,Brookline Village,green
+Brookline Village,Brookline Hills,green
+Brookline Village,Longwood,green
+Longwood,Brookline Village,green
+Fenway,Boston College,green
+Boston College,Fenway,green
+Boston College,South Street,green
+South Street,Boston College,green
+South Street,Chestnut Hill Avenue,green
+Chestnut Hill Avenue,South Street,green
+Chestnut Hill Avenue,Chiswick Road,green
+Chiswick Road,Chestnut Hill Avenue,green
+Chiswick Road,Sutherland Road,green
+Sutherland Road,Chiswick Road,green
+Sutherland Road,Washington Street,green
+Washington Street,Sutherland Road,green
+Washington Street,Warren Street,green
+Warren Street,Washington Street,green
+Warren Street,Allston Street,green
+Allston Street,Warren Street,green
+Allston Street,Griggs Street,green
+Griggs Street,Allston Street,green
+Griggs Street,Harvard Avenue,green
+Harvard Avenue,Griggs Street,green
+Harvard Avenue,Packards Corner,green
+Packards Corner,Harvard Avenue,green
+Packards Corner,Babcock Street,green
+Babcock Street,Packards Corner,green
+Pleasant Street,Saint Paul Street,green
+Saint Paul Street,Pleasant Street,green
+Saint Paul Street,Boston University West,green
+Boston University West,Saint Paul Street,green
+Boston University West,Boston University Central,green
+Boston University Central,Boston University West,green
+Boston University Central,Boston University East,green
+Boston University East,Boston University Central,green
+Blandford Street,Kenmore,green
+Kenmore,Blandford Street,green
+Cleveland Circle,Englewood Avenue,green
+Englewood Avenue,Cleveland Circle,green
+Englewood Avenue,Dean Road,green
+Dean Road,Englewood Avenue,green
+Dean Road,Tappan Street,green
+Tappan Street,Dean Road,green
+Tappan Street,Washington Square,green
+Washington Square,Tappan Street,green
+Washington Square,Fairbanks Street,green
+Fairbanks Street,Washington Square,green
+Fairbanks Street,Brandon Hall,green
+Brandon Hall,Fairbanks Street,green
+Brandon Hall,Summit Avenue,green
+Summit Avenue,Brandon Hall,green
+Summit Avenue,Coolidge Corner,green
+Coolidge Corner,Summit Avenue,green
+Coolidge Corner,Saint Paul Street,green
+Saint Paul Street,Coolidge Corner,green
+Saint Paul Street,Kent Street,green
+Kent Street,Saint Paul Street,green
+Kent Street,Hawes Street,green
+Hawes Street,Kent Street,green
+Longwood,Saint Marys Street,green
+Saint Marys Street,Longwood,green
+Boston University East,Saint Marys Street,green
+Saint Marys Street,Boston University East,green
+Hawes Street,Saint Marys Street,green
+Saint Marys Street,Hawes Street,green
+Saint Marys Street,Kenmore,green
+Kenmore,Saint Marys Street,green
+Kenmore,Hynes Convention Ctr,green
+Hynes Convention Ctr,Kenmore,green
+Hynes Convention Ctr,Copley,green
+Copley,Hynes Convention Ctr,green
+Copley,Bowdoin Station,green
+Bowdoin Station,Copley,green
+Bowdoin Station,Downtown Crossing Station,green
+Downtown Crossing Station,Bowdoin Station,green
