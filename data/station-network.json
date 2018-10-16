@@ -407,7 +407,54 @@
     {
       "id": "place-arlin",
       "name": "Arlington"
-    }
+    },
+    {
+      "id": "place-heralst",
+      "name": "Herald St"
+    },
+    {
+      "id": "place-eastbrk",
+      "name": "East Berkeley St"
+    },
+    {
+      "id": "place-unipkst",
+      "name": "Union Park St"
+    },
+    {
+      "id": "place-newtst",
+      "name": "Newton St"
+    },
+    {
+      "id": "place-worcesq",
+      "name": "Worcester Sq"
+    },
+    {
+      "id": "place-massave",
+      "name": "Mass. Ave"
+    },
+    {
+      "id": "place-lenoxst",
+      "name": "Lenox St"
+    },
+    {
+      "id": "place-melncas",
+      "name": "Melnea Cass"
+    },
+    {
+      "id": "place-dudley",
+      "name": "DUDLEY SQ"
+    },
+    {"id": "place-couths", "name": "Courthouse"},
+    {"id": "place-wtcenter", "name": "World Trade Center"},
+    {"id": "place-silverlw", "name": "Silver Line Way"},
+    {"id": "place-easteav", "name": "Eastern Ave"},
+    {"id": "place-boxdis", "name": "Box District"},
+    {"id": "place-bellisq", "name": "Bellingham Sq"},
+    {"id": "place-chelsea", "name": "Chelsea"},
+    {"id": "place-harbost", "name": "Harbor St"},
+    {"id": "place-tidest", "name": "Tide St"},
+    {"id": "place-drydocav", "name": "23 Drydock Ave"},
+    {"id": "place-88bfave", "name": "88 Black Falcon Ave"}
   ],
   "links": [
     {
@@ -765,6 +812,12 @@
       "color": ""
     },
     {
+      "source": 30,
+      "target": 22,
+      "line": "silver",
+      "color": ""
+    },
+    {
       "source": 54,
       "target": 55,
       "line": "green",
@@ -1050,6 +1103,132 @@
       "source": 51,
       "target": 9,
       "line": "green",
+      "color": ""
+    },
+    {
+      "source": 30,
+      "target": 102,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 103,
+      "target": 104,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 104,
+      "target": 105,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 106,
+      "target": 107,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 107,
+      "target": 108,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 108,
+      "target": 109,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 109,
+      "target": 110,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 7,
+      "target": 111,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 111,
+      "target": 112,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 112,
+      "target": 113,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 40,
+      "target": 113,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 40,
+      "target": 114,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 114,
+      "target": 115,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 115,
+      "target": 116,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 116,
+      "target": 117,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 113,
+      "target": 118,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 118,
+      "target": 119,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 119,
+      "target": 120,
+      "line": "silver",
+      "color": ""
+    },
+    {
+      "source": 120,
+      "target": 121,
+      "line": "silver",
       "color": ""
     }
   ]
