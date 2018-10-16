@@ -7,8 +7,8 @@ Andrew Station,Broadway Station,red
 Broadway Station,Andrew Station,red
 Quincy Adams Station,Quincy Center Station,red
 Quincy Center Station,Quincy Adams Station,red
-Park St. Station,Arlington,red
-Arlington,Park St. Station,red
+Park St. Station,88 Black Falcon Ave,red
+88 Black Falcon Ave,Park St. Station,red
 Shawmut Station,Central Square Station,red
 Central Square Station,Shawmut Station,red
 Porter Square Station,Davis Station,red
@@ -21,8 +21,8 @@ Central Square Station,Harvard Square Station,red
 Harvard Square Station,Central Square Station,red
 Savin Hill Station,JFK/UMass Station,red
 JFK/UMass Station,Savin Hill Station,red
-Arlington,Shawmut Station,red
-Shawmut Station,Arlington,red
+88 Black Falcon Ave,Shawmut Station,red
+Shawmut Station,88 Black Falcon Ave,red
 Alewife Station,Savin Hill Station,red
 Savin Hill Station,Alewife Station,red
 Downtown Crossing Station,Park St. Station,red
@@ -117,6 +117,8 @@ Braintree Station,South Station,silver
 South Station,Braintree Station,silver
 Broadway Station,Braintree Station,silver
 Braintree Station,Broadway Station,silver
+Back Bay Station,Braintree Station,silver
+Braintree Station,Back Bay Station,silver
 Lechmere,Riverside,green
 Riverside,Lechmere,green
 Riverside,Woodland,green
@@ -213,3 +215,45 @@ Copley,Bowdoin Station,green
 Bowdoin Station,Copley,green
 Bowdoin Station,Downtown Crossing Station,green
 Downtown Crossing Station,Bowdoin Station,green
+Back Bay Station,Arlington,silver
+Arlington,Back Bay Station,silver
+Arlington,Herald St,silver
+Herald St,Arlington,silver
+Herald St,East Berkeley St,silver
+East Berkeley St,Herald St,silver
+East Berkeley St,Union Park St,silver
+Union Park St,East Berkeley St,silver
+Union Park St,Newton St,silver
+Newton St,Union Park St,silver
+Newton St,Worcester Sq,silver
+Worcester Sq,Newton St,silver
+Worcester Sq,Mass. Ave,silver
+Mass. Ave,Worcester Sq,silver
+Mass. Ave,Lenox St,silver
+Lenox St,Mass. Ave,silver
+Lenox St,Melnea Cass,silver
+Melnea Cass,Lenox St,silver
+Broadway Station,DUDLEY SQ,silver
+DUDLEY SQ,Broadway Station,silver
+DUDLEY SQ,Courthouse,silver
+Courthouse,DUDLEY SQ,silver
+Courthouse,World Trade Center,silver
+World Trade Center,Courthouse,silver
+Oak Grove Station,World Trade Center,silver
+World Trade Center,Oak Grove Station,silver
+Oak Grove Station,Silver Line Way,silver
+Silver Line Way,Oak Grove Station,silver
+Silver Line Way,Eastern Ave,silver
+Eastern Ave,Silver Line Way,silver
+Eastern Ave,Box District,silver
+Box District,Eastern Ave,silver
+Box District,Bellingham Sq,silver
+Bellingham Sq,Box District,silver
+World Trade Center,Chelsea,silver
+Chelsea,World Trade Center,silver
+Chelsea,Harbor St,silver
+Harbor St,Chelsea,silver
+Harbor St,Tide St,silver
+Tide St,Harbor St,silver
+Tide St,23 Drydock Ave,silver
+23 Drydock Ave,Tide St,silver
