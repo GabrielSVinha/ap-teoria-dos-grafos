@@ -1,0 +1,259 @@
+Source,Target,Label
+JFK/UMass Station,Andrew Station,3676
+Andrew Station,JFK/UMass Station,2249
+Kendall/MIT Station,Charles/MGH Station,3002
+Charles/MGH Station,Kendall/MIT Station,1409
+Andrew Station,Broadway Station,3665
+Broadway Station,Andrew Station,3676
+Quincy Adams Station,Quincy Center Station,3765
+Quincy Center Station,Quincy Adams Station,2718
+Park St. Station,88 Black Falcon Ave,3091
+88 Black Falcon Ave,Park St. Station,2708
+Shawmut Station,Central Square Station,2761
+Central Square Station,Shawmut Station,2346
+Porter Square Station,Davis Station,5096
+Davis Station,Porter Square Station,178
+South Station,Downtown Crossing Station,2857
+Downtown Crossing Station,South Station,1911
+Ashmont Station,Fields Corner Station,4435
+Fields Corner Station,Ashmont Station,4556
+Central Square Station,Harvard Square Station,1629
+Harvard Square Station,Central Square Station,2761
+Savin Hill Station,JFK/UMass Station,2249
+JFK/UMass Station,Savin Hill Station,1093
+88 Black Falcon Ave,Shawmut Station,2346
+Shawmut Station,88 Black Falcon Ave,3091
+Alewife Station,Savin Hill Station,1093
+Savin Hill Station,Alewife Station,3166
+Downtown Crossing Station,Park St. Station,2708
+Park St. Station,Downtown Crossing Station,2857
+Harvard Square Station,Porter Square Station,178
+Porter Square Station,Harvard Square Station,1629
+Quincy Center Station,Wollaston Station,901
+Wollaston Station,Quincy Center Station,3765
+Wollaston Station,North Quincy Station,2929
+North Quincy Station,Wollaston Station,901
+Fields Corner Station,Savin Hill Station,1093
+Savin Hill Station,Fields Corner Station,4435
+Charles/MGH Station,Ashmont Station,4556
+Ashmont Station,Charles/MGH Station,3002
+Broadway Station,South Station,1911
+South Station,Broadway Station,3665
+North Quincy Station,Alewife Station,3166
+Alewife Station,North Quincy Station,2929
+Massachusetts Ave. Station,Back Bay Station,2542
+Back Bay Station,Massachusetts Ave. Station,4432
+North Station,Community College Station,1822
+Community College Station,North Station,1802
+Braintree Station,South Station,1911
+South Station,Braintree Station,981
+South Station,Green St. Station,2383
+Green St. Station,South Station,1911
+Chinatown Station,Tufts Medical Center Station,877
+Tufts Medical Center Station,Chinatown Station,2485
+Tufts Medical Center Station,Forest Hills Station,3295
+Forest Hills Station,Tufts Medical Center Station,877
+State St. Station,Haymarket Station,2419
+Haymarket Station,State St. Station,3960
+Stony Brook Station,Jackson Square Station,3487
+Jackson Square Station,Stony Brook Station,2731
+Ruggles Station,Massachusetts Ave. Station,4432
+Massachusetts Ave. Station,Ruggles Station,5733
+Wellington Station,Malden Center Station,2501
+Malden Center Station,Wellington Station,5736
+Haymarket Station,North Station,1802
+North Station,Haymarket Station,2419
+Jackson Square Station,Roxbury Crossing Station,1684
+Roxbury Crossing Station,Jackson Square Station,3487
+Roxbury Crossing Station,Ruggles Station,5733
+Ruggles Station,Roxbury Crossing Station,1684
+Forest Hills Station,Stony Brook Station,2731
+Stony Brook Station,Forest Hills Station,3295
+Green St. Station,State St. Station,3960
+State St. Station,Green St. Station,2383
+Community College Station,Sullivan Station,2462
+Sullivan Station,Community College Station,1822
+Back Bay Station,Braintree Station,981
+Braintree Station,Back Bay Station,2542
+Sullivan Station,Wellington Station,5736
+Wellington Station,Sullivan Station,2462
+Oak Grove Station,Orient Heights Station,4202
+Orient Heights Station,Oak Grove Station,1917
+Maverick Station,Revere Beach Station,2322
+Revere Beach Station,Maverick Station,1179
+Wonderland Station,Wood Island Station,4493
+Wood Island Station,Wonderland Station,2921
+Government Center Station,Aquarium Station,2283
+Aquarium Station,Government Center Station,3393
+Aquarium Station,Green St. Station,2383
+Green St. Station,Aquarium Station,2283
+Revere Beach Station,Oak Grove Station,1917
+Oak Grove Station,Revere Beach Station,2322
+Suffolk Downs Station,Beachmont Station,3632
+Beachmont Station,Suffolk Downs Station,1815
+Wood Island Station,Airport Station,3868
+Airport Station,Wood Island Station,4493
+Beachmont Station,Wonderland Station,2921
+Wonderland Station,Beachmont Station,3632
+Green St. Station,Maverick Station,1179
+Maverick Station,Green St. Station,2383
+Orient Heights Station,Suffolk Downs Station,1815
+Suffolk Downs Station,Orient Heights Station,4202
+Boylston,Downtown Crossing Station,2857
+Downtown Crossing Station,Boylston,3311
+Downtown Crossing Station,Aquarium Station,2283
+Aquarium Station,Downtown Crossing Station,2857
+Aquarium Station,State St. Station,3960
+State St. Station,Aquarium Station,2283
+State St. Station,Haymarket Station,2419
+Haymarket Station,State St. Station,3960
+Haymarket Station,Boylston,3311
+Boylston,Haymarket Station,2419
+Boylston,Science Park/West End,3596
+Science Park/West End,Boylston,3311
+South Station,Bowdoin Station,6913
+Bowdoin Station,South Station,1911
+Braintree Station,South Station,1911
+South Station,Braintree Station,981
+Broadway Station,Braintree Station,981
+Braintree Station,Broadway Station,3665
+Back Bay Station,Braintree Station,981
+Braintree Station,Back Bay Station,2542
+Lechmere,Riverside,2622
+Riverside,Lechmere,5038
+Riverside,Woodland,520
+Woodland,Riverside,2622
+Woodland,Waban,3254
+Waban,Woodland,520
+Waban,Eliot,1556
+Eliot,Waban,3254
+Eliot,Newton Highlands,2184
+Newton Highlands,Eliot,1556
+Newton Highlands,Newton Centre,4281
+Newton Centre,Newton Highlands,2184
+Newton Centre,Chestnut Hill,2128
+Chestnut Hill,Newton Centre,4281
+Chestnut Hill,Reservoir,2725
+Reservoir,Chestnut Hill,2128
+Reservoir,Beaconsfield,2697
+Beaconsfield,Reservoir,2725
+Beaconsfield,Brookline Hills,2071
+Brookline Hills,Beaconsfield,2697
+Brookline Hills,Brookline Village,2435
+Brookline Village,Brookline Hills,2071
+Brookline Village,Longwood,2583
+Longwood,Brookline Village,2435
+Fenway,Boston College,791
+Boston College,Fenway,1181
+Boston College,South Street,5068
+South Street,Boston College,791
+South Street,Chestnut Hill Avenue,3358
+Chestnut Hill Avenue,South Street,5068
+Chestnut Hill Avenue,Chiswick Road,3045
+Chiswick Road,Chestnut Hill Avenue,3358
+Chiswick Road,Sutherland Road,3571
+Sutherland Road,Chiswick Road,3045
+Sutherland Road,Washington Street,1139
+Washington Street,Sutherland Road,3571
+Washington Street,Warren Street,3422
+Warren Street,Washington Street,1139
+Warren Street,Allston Street,1792
+Allston Street,Warren Street,3422
+Allston Street,Griggs Street,2977
+Griggs Street,Allston Street,1792
+Griggs Street,Harvard Avenue,3279
+Harvard Avenue,Griggs Street,2977
+Harvard Avenue,Packards Corner,2266
+Packards Corner,Harvard Avenue,3279
+Packards Corner,Babcock Street,1577
+Babcock Street,Packards Corner,2266
+Pleasant Street,Saint Paul Street,4546
+Saint Paul Street,Pleasant Street,4744
+Saint Paul Street,Boston University West,4084
+Boston University West,Saint Paul Street,4546
+Boston University West,Boston University Central,3167
+Boston University Central,Boston University West,4084
+Boston University Central,Boston University East,2500
+Boston University East,Boston University Central,3167
+Blandford Street,Kenmore,1770
+Kenmore,Blandford Street,4631
+Cleveland Circle,Englewood Avenue,1474
+Englewood Avenue,Cleveland Circle,1770
+Englewood Avenue,Dean Road,2285
+Dean Road,Englewood Avenue,1474
+Dean Road,Tappan Street,2894
+Tappan Street,Dean Road,2285
+Tappan Street,Washington Square,2142
+Washington Square,Tappan Street,2894
+Washington Square,Fairbanks Street,2739
+Fairbanks Street,Washington Square,2142
+Fairbanks Street,Brandon Hall,3526
+Brandon Hall,Fairbanks Street,2739
+Brandon Hall,Summit Avenue,3768
+Summit Avenue,Brandon Hall,3526
+Summit Avenue,Coolidge Corner,2132
+Coolidge Corner,Summit Avenue,3768
+Coolidge Corner,Saint Paul Street,3991
+Saint Paul Street,Coolidge Corner,2132
+Saint Paul Street,Kent Street,1732
+Kent Street,Saint Paul Street,3991
+Kent Street,Hawes Street,2787
+Hawes Street,Kent Street,1732
+Longwood,Saint Marys Street,3216
+Saint Marys Street,Longwood,2583
+Boston University East,Saint Marys Street,3216
+Saint Marys Street,Boston University East,2500
+Hawes Street,Saint Marys Street,3216
+Saint Marys Street,Hawes Street,2787
+Saint Marys Street,Kenmore,2433
+Kenmore,Saint Marys Street,3216
+Kenmore,Hynes Convention Ctr,2382
+Hynes Convention Ctr,Kenmore,2433
+Hynes Convention Ctr,Copley,3469
+Copley,Hynes Convention Ctr,2382
+Copley,Bowdoin Station,6913
+Bowdoin Station,Copley,3469
+Bowdoin Station,Downtown Crossing Station,2857
+Downtown Crossing Station,Bowdoin Station,6913
+Back Bay Station,Arlington,2187
+Arlington,Back Bay Station,2542
+Arlington,Herald St,2186
+Herald St,Arlington,2187
+Herald St,East Berkeley St,1825
+East Berkeley St,Herald St,2186
+East Berkeley St,Union Park St,3403
+Union Park St,East Berkeley St,1825
+Union Park St,Newton St,3400
+Newton St,Union Park St,3403
+Newton St,Worcester Sq,720
+Worcester Sq,Newton St,3400
+Worcester Sq,Mass. Ave,2751
+Mass. Ave,Worcester Sq,720
+Mass. Ave,Lenox St,4304
+Lenox St,Mass. Ave,2751
+Lenox St,Melnea Cass,4624
+Melnea Cass,Lenox St,4304
+Broadway Station,DUDLEY SQ,3942
+DUDLEY SQ,Broadway Station,3665
+DUDLEY SQ,Courthouse,3414
+Courthouse,DUDLEY SQ,3942
+Courthouse,World Trade Center,3196
+World Trade Center,Courthouse,3414
+Oak Grove Station,World Trade Center,3196
+World Trade Center,Oak Grove Station,1917
+Oak Grove Station,Silver Line Way,4625
+Silver Line Way,Oak Grove Station,1917
+Silver Line Way,Eastern Ave,1191
+Eastern Ave,Silver Line Way,4625
+Eastern Ave,Box District,4782
+Box District,Eastern Ave,1191
+Box District,Bellingham Sq,2963
+Bellingham Sq,Box District,4782
+World Trade Center,Chelsea,2381
+Chelsea,World Trade Center,3196
+Chelsea,Harbor St,1619
+Harbor St,Chelsea,2381
+Harbor St,Tide St,2332
+Tide St,Harbor St,1619
+Tide St,23 Drydock Ave,598
+23 Drydock Ave,Tide St,2332

@@ -1,0 +1,1397 @@
+{
+    "nodes": [
+        {
+            "id": "place-knncl",
+            "name": "Kendall/MIT Station"
+        },
+        {
+            "id": "place-asmnl",
+            "name": "Ashmont Station"
+        },
+        {
+            "id": "place-fldcr",
+            "name": "Fields Corner Station"
+        },
+        {
+            "id": "place-shmnl",
+            "name": "Savin Hill Station"
+        },
+        {
+            "id": "place-jfk",
+            "name": "JFK/UMass Station"
+        },
+        {
+            "id": "place-andrw",
+            "name": "Andrew Station"
+        },
+        {
+            "id": "place-brdwy",
+            "name": "Broadway Station"
+        },
+        {
+            "id": "place-sstat",
+            "name": "South Station"
+        },
+        {
+            "id": "place-dwnxg",
+            "name": "Downtown Crossing Station"
+        },
+        {
+            "id": "place-pktrm",
+            "name": "Park St. Station"
+        },
+        {
+            "id": "place-chmnl",
+            "name": "Charles/MGH Station"
+        },
+        {
+            "id": "place-smmnl",
+            "name": "Shawmut Station"
+        },
+        {
+            "id": "place-cntsq",
+            "name": "Central Square Station"
+        },
+        {
+            "id": "place-harsq",
+            "name": "Harvard Square Station"
+        },
+        {
+            "id": "place-portr",
+            "name": "Porter Square Station"
+        },
+        {
+            "id": "place-davis",
+            "name": "Davis Station"
+        },
+        {
+            "id": "place-alfcl",
+            "name": "Alewife Station"
+        },
+        {
+            "id": "place-nqncy",
+            "name": "North Quincy Station"
+        },
+        {
+            "id": "place-wlsta",
+            "name": "Wollaston Station"
+        },
+        {
+            "id": "place-qnctr",
+            "name": "Quincy Center Station"
+        },
+        {
+            "id": "place-qamnl",
+            "name": "Quincy Adams Station"
+        },
+        {
+            "id": "place-brntn",
+            "name": "Braintree Station"
+        },
+        {
+            "id": "place-chncl",
+            "name": "Chinatown Station"
+        },
+        {
+            "id": "place-forhl",
+            "name": "Forest Hills Station"
+        },
+        {
+            "id": "place-sbmnl",
+            "name": "Stony Brook Station"
+        },
+        {
+            "id": "place-jaksn",
+            "name": "Jackson Square Station"
+        },
+        {
+            "id": "place-rcmnl",
+            "name": "Roxbury Crossing Station"
+        },
+        {
+            "id": "place-rugg",
+            "name": "Ruggles Station"
+        },
+        {
+            "id": "place-masta",
+            "name": "Massachusetts Ave. Station"
+        },
+        {
+            "id": "place-bbsta",
+            "name": "Back Bay Station"
+        },
+        {
+            "id": "place-tumnl",
+            "name": "Tufts Medical Center Station"
+        },
+        {
+            "id": "place-grnst",
+            "name": "Green St. Station"
+        },
+        {
+            "id": "place-state",
+            "name": "State St. Station"
+        },
+        {
+            "id": "place-haecl",
+            "name": "Haymarket Station"
+        },
+        {
+            "id": "place-north",
+            "name": "North Station"
+        },
+        {
+            "id": "place-ccmnl",
+            "name": "Community College Station"
+        },
+        {
+            "id": "place-sull",
+            "name": "Sullivan Station"
+        },
+        {
+            "id": "place-welln",
+            "name": "Wellington Station"
+        },
+        {
+            "id": "place-mlmnl",
+            "name": "Malden Center Station"
+        },
+        {
+            "id": "place-ogmnl",
+            "name": "Oak Grove Station"
+        },
+        {
+            "id": "place-aport",
+            "name": "Airport Station"
+        },
+        {
+            "id": "place-wondl",
+            "name": "Wonderland Station"
+        },
+        {
+            "id": "place-bmmnl",
+            "name": "Beachmont Station"
+        },
+        {
+            "id": "place-sdmnl",
+            "name": "Suffolk Downs Station"
+        },
+        {
+            "id": "place-orhte",
+            "name": "Orient Heights Station"
+        },
+        {
+            "id": "place-wimnl",
+            "name": "Wood Island Station"
+        },
+        {
+            "id": "place-rbmnl",
+            "name": "Revere Beach Station"
+        },
+        {
+            "id": "place-mvbcl",
+            "name": "Maverick Station"
+        },
+        {
+            "id": "place-aqucl",
+            "name": "Aquarium Station"
+        },
+        {
+            "id": "place-gover",
+            "name": "Government Center Station"
+        },
+        {
+            "id": "place-bomnl",
+            "name": "Bowdoin Station"
+        },
+        {
+            "id": "place-boyls",
+            "name": "Boylston"
+        },
+        {
+            "id": "place-scipark",
+            "name": "Science Park/West End"
+        },
+        {
+            "id": "place-lech",
+            "name": "Lechmere"
+        },
+        {
+            "id": "place-riversd",
+            "name": "Riverside"
+        },
+        {
+            "id": "place-woodla",
+            "name": "Woodland"
+        },
+        {
+            "id": "place-waba",
+            "name": "Waban"
+        },
+        {
+            "id": "place-elio",
+            "name": "Eliot"
+        },
+        {
+            "id": "place-newtonhg",
+            "name": "Newton Highlands"
+        },
+        {
+            "id": "place-newtoncnt",
+            "name": "Newton Centre"
+        },
+        {
+            "id": "place-chehil",
+            "name": "Chestnut Hill"
+        },
+        {
+            "id": "place-reserv",
+            "name": "Reservoir"
+        },
+        {
+            "id": "place-beacon",
+            "name": "Beaconsfield"
+        },
+        {
+            "id": "place-brookhi",
+            "name": "Brookline Hills"
+        },
+        {
+            "id": "place-brookvi",
+            "name": "Brookline Village"
+        },
+        {
+            "id": "place-long",
+            "name": "Longwood"
+        },
+        {
+            "id": "place-fenw",
+            "name": "Fenway"
+        },
+        {
+            "id": "place-bostcol",
+            "name": "Boston College"
+        },
+        {
+            "id": "place-southst",
+            "name": "South Street"
+        },
+        {
+            "id": "place-chesthi",
+            "name": "Chestnut Hill Avenue"
+        },
+        {
+            "id": "place-chiswrd",
+            "name": "Chiswick Road"
+        },
+        {
+            "id": "place-suthrd",
+            "name": "Sutherland Road"
+        },
+        {
+            "id": "place-washst",
+            "name": "Washington Street"
+        },
+        {
+            "id": "place-warrst",
+            "name": "Warren Street"
+        },
+        {
+            "id": "place-allsst",
+            "name": "Allston Street"
+        },
+        {
+            "id": "place-grigst",
+            "name": "Griggs Street"
+        },
+        {
+            "id": "place-harvav",
+            "name": "Harvard Avenue"
+        },
+        {
+            "id": "place-packcrn",
+            "name": "Packards Corner"
+        },
+        {
+            "id": "place-babcst",
+            "name": "Babcock Street"
+        },
+        {
+            "id": "place-pleasst",
+            "name": "Pleasant Street"
+        },
+        {
+            "id": "place-sntplst",
+            "name": "Saint Paul Street"
+        },
+        {
+            "id": "place-bostw",
+            "name": "Boston University West"
+        },
+        {
+            "id": "place-bostc",
+            "name": "Boston University Central"
+        },
+        {
+            "id": "place-boste",
+            "name": "Boston University East"
+        },
+        {
+            "id": "place-blandst",
+            "name": "Blandford Street"
+        },
+        {
+            "id": "place-clevcirc",
+            "name": "Cleveland Circle"
+        },
+        {
+            "id": "place-engleav",
+            "name": "Englewood Avenue"
+        },
+        {
+            "id": "place-deanrd",
+            "name": "Dean Road"
+        },
+        {
+            "id": "place-tappst",
+            "name": "Tappan Street"
+        },
+        {
+            "id": "place-washsq",
+            "name": "Washington Square"
+        },
+        {
+            "id": "place-fairbsr",
+            "name": "Fairbanks Street"
+        },
+        {
+            "id": "place-brandha",
+            "name": "Brandon Hall"
+        },
+        {
+            "id": "place-summav",
+            "name": "Summit Avenue"
+        },
+        {
+            "id": "place-coolcorn",
+            "name": "Coolidge Corner"
+        },
+        {
+            "id": "place-sntpaulst",
+            "name": "Saint Paul Street"
+        },
+        {
+            "id": "place-kentst",
+            "name": "Kent Street"
+        },
+        {
+            "id": "place-hawesst",
+            "name": "Hawes Street"
+        },
+        {
+            "id": "place-sntmst",
+            "name": "Saint Marys Street"
+        },
+        {
+            "id": "place-kenmo",
+            "name": "Kenmore"
+        },
+        {
+            "id": "place-hynescn ",
+            "name": "Hynes Convention Ctr"
+        },
+        {
+            "id": "place-copl",
+            "name": "Copley"
+        },
+        {
+            "id": "place-arlin",
+            "name": "Arlington"
+        },
+        {
+            "id": "place-heralst",
+            "name": "Herald St"
+        },
+        {
+            "id": "place-eastbrk",
+            "name": "East Berkeley St"
+        },
+        {
+            "id": "place-unipkst",
+            "name": "Union Park St"
+        },
+        {
+            "id": "place-newtst",
+            "name": "Newton St"
+        },
+        {
+            "id": "place-worcesq",
+            "name": "Worcester Sq"
+        },
+        {
+            "id": "place-massave",
+            "name": "Mass. Ave"
+        },
+        {
+            "id": "place-lenoxst",
+            "name": "Lenox St"
+        },
+        {
+            "id": "place-melncas",
+            "name": "Melnea Cass"
+        },
+        {
+            "id": "place-dudley",
+            "name": "DUDLEY SQ"
+        },
+        {
+            "id": "place-couths",
+            "name": "Courthouse"
+        },
+        {
+            "id": "place-wtcenter",
+            "name": "World Trade Center"
+        },
+        {
+            "id": "place-silverlw",
+            "name": "Silver Line Way"
+        },
+        {
+            "id": "place-easteav",
+            "name": "Eastern Ave"
+        },
+        {
+            "id": "place-boxdis",
+            "name": "Box District"
+        },
+        {
+            "id": "place-bellisq",
+            "name": "Bellingham Sq"
+        },
+        {
+            "id": "place-chelsea",
+            "name": "Chelsea"
+        },
+        {
+            "id": "place-harbost",
+            "name": "Harbor St"
+        },
+        {
+            "id": "place-tidest",
+            "name": "Tide St"
+        },
+        {
+            "id": "place-drydocav",
+            "name": "23 Drydock Ave"
+        },
+        {
+            "id": "place-88bfave",
+            "name": "88 Black Falcon Ave"
+        }
+    ],
+    "links": [
+        {
+            "color": "E12D27",
+            "source": 5,
+            "line": "red",
+            "target": 6,
+            "avg_delay": 87.84111588543418
+        },
+        {
+            "color": "E12D27",
+            "source": 1,
+            "line": "red",
+            "target": 11,
+            "avg_delay": 131.0096117994649
+        },
+        {
+            "color": "E12D27",
+            "source": 6,
+            "line": "red",
+            "target": 7,
+            "avg_delay": 115.83285971685973
+        },
+        {
+            "color": "E12D27",
+            "source": 21,
+            "line": "red",
+            "target": 20,
+            "avg_delay": 125.10578696945672
+        },
+        {
+            "color": "E12D27",
+            "source": 10,
+            "line": "red",
+            "target": 0,
+            "avg_delay": 124.7380618675849
+        },
+        {
+            "color": "E12D27",
+            "source": 12,
+            "line": "red",
+            "target": 13,
+            "avg_delay": 93.81236525451108
+        },
+        {
+            "color": "E12D27",
+            "source": 15,
+            "line": "red",
+            "target": 16,
+            "avg_delay": 110.97894034176655
+        },
+        {
+            "color": "E12D27",
+            "source": 8,
+            "line": "red",
+            "target": 9,
+            "avg_delay": 166.18340353134602
+        },
+        {
+            "color": "E12D27",
+            "source": 2,
+            "line": "red",
+            "target": 3,
+            "avg_delay": 142.12075393099298
+        },
+        {
+            "color": "E12D27",
+            "source": 13,
+            "line": "red",
+            "target": 14,
+            "avg_delay": 137.2249599505326
+        },
+        {
+            "color": "E12D27",
+            "source": 4,
+            "line": "red",
+            "target": 5,
+            "avg_delay": 151.02386465629874
+        },
+        {
+            "color": "E12D27",
+            "source": 0,
+            "line": "red",
+            "target": 12,
+            "avg_delay": 122.61381323945204
+        },
+        {
+            "color": "E12D27",
+            "source": 17,
+            "line": "red",
+            "target": 4,
+            "avg_delay": 238.95366349015762
+        },
+        {
+            "color": "E12D27",
+            "source": 9,
+            "line": "red",
+            "target": 10,
+            "avg_delay": 102.26104384437922
+        },
+        {
+            "color": "E12D27",
+            "source": 14,
+            "line": "red",
+            "target": 15,
+            "avg_delay": 159.82756344282458
+        },
+        {
+            "color": "E12D27",
+            "source": 20,
+            "line": "red",
+            "target": 19,
+            "avg_delay": 62.3123554662886
+        },
+        {
+            "color": "E12D27",
+            "source": 19,
+            "line": "red",
+            "target": 18,
+            "avg_delay": 179.8038705738706
+        },
+        {
+            "color": "E12D27",
+            "source": 3,
+            "line": "red",
+            "target": 4,
+            "avg_delay": 179.58477720105864
+        },
+        {
+            "color": "E12D27",
+            "source": 11,
+            "line": "red",
+            "target": 2,
+            "avg_delay": 93.94154343789387
+        },
+        {
+            "color": "E12D27",
+            "source": 7,
+            "line": "red",
+            "target": 8,
+            "avg_delay": 406.13257999572795
+        },
+        {
+            "color": "E12D27",
+            "source": 18,
+            "line": "red",
+            "target": 17,
+            "avg_delay": 119.29724021814113
+        },
+        {
+            "color": "E87200",
+            "source": 29,
+            "line": "orange",
+            "target": 30,
+            "avg_delay": 133.75536020217356
+        },
+        {
+            "color": "E87200",
+            "source": 35,
+            "line": "orange",
+            "target": 36,
+            "avg_delay": 156.04280764402873
+        },
+        {
+            "color": "E87200",
+            "source": 22,
+            "line": "orange",
+            "target": 8,
+            "avg_delay": 137.56540965394953
+        },
+        {
+            "color": "E87200",
+            "source": 8,
+            "line": "orange",
+            "target": 32,
+            "avg_delay": 112.29193753142984
+        },
+        {
+            "color": "E87200",
+            "source": 23,
+            "line": "orange",
+            "target": 31,
+            "avg_delay": 111.7374407062018
+        },
+        {
+            "color": "E87200",
+            "source": 31,
+            "line": "orange",
+            "target": 24,
+            "avg_delay": 110.70674807843406
+        },
+        {
+            "color": "E87200",
+            "source": 33,
+            "line": "orange",
+            "target": 34,
+            "avg_delay": 94.50953030770474
+        },
+        {
+            "color": "E87200",
+            "source": 25,
+            "line": "orange",
+            "target": 26,
+            "avg_delay": 130.86684013387836
+        },
+        {
+            "color": "E87200",
+            "source": 28,
+            "line": "orange",
+            "target": 29,
+            "avg_delay": 166.076451385403
+        },
+        {
+            "color": "E87200",
+            "source": 38,
+            "line": "orange",
+            "target": 39,
+            "avg_delay": 153.97661573383112
+        },
+        {
+            "color": "E87200",
+            "source": 34,
+            "line": "orange",
+            "target": 35,
+            "avg_delay": 148.86534090248534
+        },
+        {
+            "color": "E87200",
+            "source": 26,
+            "line": "orange",
+            "target": 27,
+            "avg_delay": 183.23866126153763
+        },
+        {
+            "color": "E87200",
+            "source": 27,
+            "line": "orange",
+            "target": 28,
+            "avg_delay": 173.63082530514276
+        },
+        {
+            "color": "E87200",
+            "source": 24,
+            "line": "orange",
+            "target": 25,
+            "avg_delay": 160.09960824342102
+        },
+        {
+            "color": "E87200",
+            "source": 32,
+            "line": "orange",
+            "target": 33,
+            "avg_delay": 118.77827590925253
+        },
+        {
+            "color": "E87200",
+            "source": 36,
+            "line": "orange",
+            "target": 37,
+            "avg_delay": 161.31213989954563
+        },
+        {
+            "color": "E87200",
+            "source": 30,
+            "line": "orange",
+            "target": 22,
+            "avg_delay": 391.34036129665094
+        },
+        {
+            "color": "E87200",
+            "source": 37,
+            "line": "orange",
+            "target": 38,
+            "avg_delay": 124.35821889412568
+        },
+        {
+            "color": "2F5DA6",
+            "source": 40,
+            "line": "blue",
+            "target": 45,
+            "avg_delay": 113.92644024043705
+        },
+        {
+            "color": "2F5DA6",
+            "source": 48,
+            "line": "blue",
+            "target": 47,
+            "avg_delay": 281.1536176244891
+        },
+        {
+            "color": "2F5DA6",
+            "source": 42,
+            "line": "blue",
+            "target": 46,
+            "avg_delay": 150.95001595067538
+        },
+        {
+            "color": "2F5DA6",
+            "source": 50,
+            "line": "blue",
+            "target": 49,
+            "avg_delay": 151.75519254407152
+        },
+        {
+            "color": "2F5DA6",
+            "source": 49,
+            "line": "blue",
+            "target": 32,
+            "avg_delay": 154.26085187539908
+        },
+        {
+            "color": "2F5DA6",
+            "source": 47,
+            "line": "blue",
+            "target": 40,
+            "avg_delay": 117.88912901247902
+        },
+        {
+            "color": "2F5DA6",
+            "source": 44,
+            "line": "blue",
+            "target": 43,
+            "avg_delay": 159.63118165245828
+        },
+        {
+            "color": "2F5DA6",
+            "source": 46,
+            "line": "blue",
+            "target": 41,
+            "avg_delay": 82.77784537670145
+        },
+        {
+            "color": "2F5DA6",
+            "source": 43,
+            "line": "blue",
+            "target": 42,
+            "avg_delay": 120.15567273144245
+        },
+        {
+            "color": "2F5DA6",
+            "source": 32,
+            "line": "blue",
+            "target": 48,
+            "avg_delay": 109.01574149981275
+        },
+        {
+            "color": "2F5DA6",
+            "source": 45,
+            "line": "blue",
+            "target": 44,
+            "avg_delay": 274.0496386130919
+        },
+        {
+            "color": "",
+            "source": 52,
+            "line": "green",
+            "target": 9,
+            "avg_delay": 105.52981327640501
+        },
+        {
+            "color": "",
+            "source": 9,
+            "line": "green",
+            "target": 49,
+            "avg_delay": 329.9010052259272
+        },
+        {
+            "color": "",
+            "source": 49,
+            "line": "green",
+            "target": 33,
+            "avg_delay": 140.0964163266063
+        },
+        {
+            "color": "",
+            "source": 33,
+            "line": "green",
+            "target": 34,
+            "avg_delay": 160.6501405630304
+        },
+        {
+            "color": "",
+            "source": 34,
+            "line": "green",
+            "target": 52,
+            "avg_delay": 249.8512065192192
+        },
+        {
+            "color": "",
+            "source": 52,
+            "line": "green",
+            "target": 53,
+            "avg_delay": 151.12065210096526
+        },
+        {
+            "color": "",
+            "source": 8,
+            "line": "silver",
+            "target": 51,
+            "avg_delay": 128.6215778260118
+        },
+        {
+            "color": "",
+            "source": 22,
+            "line": "silver",
+            "target": 8,
+            "avg_delay": 161.80903030784617
+        },
+        {
+            "color": "",
+            "source": 7,
+            "line": "silver",
+            "target": 22,
+            "avg_delay": 152.05301545310198
+        },
+        {
+            "color": "",
+            "source": 30,
+            "line": "silver",
+            "target": 22,
+            "avg_delay": 82.27053128268007
+        },
+        {
+            "color": "",
+            "source": 54,
+            "line": "green",
+            "target": 55,
+            "avg_delay": 158.94548268375354
+        },
+        {
+            "color": "",
+            "source": 55,
+            "line": "green",
+            "target": 56,
+            "avg_delay": 121.7084219260103
+        },
+        {
+            "color": "",
+            "source": 56,
+            "line": "green",
+            "target": 57,
+            "avg_delay": 179.46865110558542
+        },
+        {
+            "color": "",
+            "source": 57,
+            "line": "green",
+            "target": 58,
+            "avg_delay": 110.01803439548648
+        },
+        {
+            "color": "",
+            "source": 58,
+            "line": "green",
+            "target": 59,
+            "avg_delay": 134.27530546076136
+        },
+        {
+            "color": "",
+            "source": 59,
+            "line": "green",
+            "target": 60,
+            "avg_delay": 113.81215897325892
+        },
+        {
+            "color": "",
+            "source": 60,
+            "line": "green",
+            "target": 61,
+            "avg_delay": 360.74328545780975
+        },
+        {
+            "color": "",
+            "source": 61,
+            "line": "green",
+            "target": 62,
+            "avg_delay": 130.43120421402716
+        },
+        {
+            "color": "",
+            "source": 62,
+            "line": "green",
+            "target": 63,
+            "avg_delay": 88.92547485908928
+        },
+        {
+            "color": "",
+            "source": 63,
+            "line": "green",
+            "target": 64,
+            "avg_delay": 113.30989912931048
+        },
+        {
+            "color": "",
+            "source": 64,
+            "line": "green",
+            "target": 65,
+            "avg_delay": 113.68901796421987
+        },
+        {
+            "color": "",
+            "source": 65,
+            "line": "green",
+            "target": 66,
+            "avg_delay": 156.8246837370789
+        },
+        {
+            "color": "",
+            "source": 67,
+            "line": "green",
+            "target": 68,
+            "avg_delay": 247.91213164853133
+        },
+        {
+            "color": "",
+            "source": 68,
+            "line": "green",
+            "target": 69,
+            "avg_delay": 143.8164124114012
+        },
+        {
+            "color": "",
+            "source": 69,
+            "line": "green",
+            "target": 70,
+            "avg_delay": 129.06448744909315
+        },
+        {
+            "color": "",
+            "source": 70,
+            "line": "green",
+            "target": 71,
+            "avg_delay": 92.23268309373171
+        },
+        {
+            "color": "",
+            "source": 71,
+            "line": "green",
+            "target": 72,
+            "avg_delay": 102.75011027415007
+        },
+        {
+            "color": "",
+            "source": 72,
+            "line": "green",
+            "target": 73,
+            "avg_delay": 159.89203917221366
+        },
+        {
+            "color": "",
+            "source": 73,
+            "line": "green",
+            "target": 74,
+            "avg_delay": 286.74576593021277
+        },
+        {
+            "color": "",
+            "source": 74,
+            "line": "green",
+            "target": 75,
+            "avg_delay": 91.3142966776638
+        },
+        {
+            "color": "",
+            "source": 75,
+            "line": "green",
+            "target": 76,
+            "avg_delay": 113.71035275827755
+        },
+        {
+            "color": "",
+            "source": 76,
+            "line": "green",
+            "target": 77,
+            "avg_delay": 86.65481671465068
+        },
+        {
+            "color": "",
+            "source": 77,
+            "line": "green",
+            "target": 78,
+            "avg_delay": 114.09015987639353
+        },
+        {
+            "color": "",
+            "source": 78,
+            "line": "green",
+            "target": 79,
+            "avg_delay": 146.45483439887283
+        },
+        {
+            "color": "",
+            "source": 80,
+            "line": "green",
+            "target": 81,
+            "avg_delay": 159.0343263765857
+        },
+        {
+            "color": "",
+            "source": 81,
+            "line": "green",
+            "target": 82,
+            "avg_delay": 349.9076164289162
+        },
+        {
+            "color": "",
+            "source": 82,
+            "line": "green",
+            "target": 83,
+            "avg_delay": 122.71324711703103
+        },
+        {
+            "color": "",
+            "source": 83,
+            "line": "green",
+            "target": 84,
+            "avg_delay": 107.01460296095506
+        },
+        {
+            "color": "",
+            "source": 85,
+            "line": "green",
+            "target": 86,
+            "avg_delay": 122.3672811455115
+        },
+        {
+            "color": "",
+            "source": 86,
+            "line": "green",
+            "target": 87,
+            "avg_delay": 176.6529402649429
+        },
+        {
+            "color": "",
+            "source": 87,
+            "line": "green",
+            "target": 88,
+            "avg_delay": 301.70790095082896
+        },
+        {
+            "color": "",
+            "source": 88,
+            "line": "green",
+            "target": 89,
+            "avg_delay": 157.07924589485808
+        },
+        {
+            "color": "",
+            "source": 89,
+            "line": "green",
+            "target": 90,
+            "avg_delay": 127.64326582208687
+        },
+        {
+            "color": "",
+            "source": 90,
+            "line": "green",
+            "target": 91,
+            "avg_delay": 110.69330015801174
+        },
+        {
+            "color": "",
+            "source": 91,
+            "line": "green",
+            "target": 92,
+            "avg_delay": 125.10132471480885
+        },
+        {
+            "color": "",
+            "source": 92,
+            "line": "green",
+            "target": 93,
+            "avg_delay": 98.64471948671438
+        },
+        {
+            "color": "",
+            "source": 93,
+            "line": "green",
+            "target": 94,
+            "avg_delay": 129.69967072863315
+        },
+        {
+            "color": "",
+            "source": 94,
+            "line": "green",
+            "target": 95,
+            "avg_delay": 130.5077477913839
+        },
+        {
+            "color": "",
+            "source": 95,
+            "line": "green",
+            "target": 96,
+            "avg_delay": 119.5416535815169
+        },
+        {
+            "color": "",
+            "source": 96,
+            "line": "green",
+            "target": 97,
+            "avg_delay": 157.5565724567178
+        },
+        {
+            "color": "",
+            "source": 66,
+            "line": "green",
+            "target": 98,
+            "avg_delay": 130.0461798775744
+        },
+        {
+            "color": "",
+            "source": 84,
+            "line": "green",
+            "target": 98,
+            "avg_delay": 120.4232943230242
+        },
+        {
+            "color": "",
+            "source": 97,
+            "line": "green",
+            "target": 98,
+            "avg_delay": 89.24749103762943
+        },
+        {
+            "color": "",
+            "source": 98,
+            "line": "green",
+            "target": 99,
+            "avg_delay": 189.35810325796265
+        },
+        {
+            "color": "",
+            "source": 99,
+            "line": "green",
+            "target": 100,
+            "avg_delay": 102.6367842652289
+        },
+        {
+            "color": "",
+            "source": 100,
+            "line": "green",
+            "target": 101,
+            "avg_delay": 103.73407838208593
+        },
+        {
+            "color": "",
+            "source": 101,
+            "line": "green",
+            "target": 51,
+            "avg_delay": 138.36846191573787
+        },
+        {
+            "color": "",
+            "source": 51,
+            "line": "green",
+            "target": 9,
+            "avg_delay": 143.8431728286308
+        },
+        {
+            "color": "",
+            "source": 30,
+            "line": "silver",
+            "target": 102,
+            "avg_delay": 116.44834376867144
+        },
+        {
+            "color": "",
+            "source": 102,
+            "line": "silver",
+            "target": 103,
+            "avg_delay": 131.61034166513616
+        },
+        {
+            "color": "",
+            "source": 103,
+            "line": "silver",
+            "target": 104,
+            "avg_delay": 117.10693155418134
+        },
+        {
+            "color": "",
+            "source": 104,
+            "line": "silver",
+            "target": 105,
+            "avg_delay": 181.72328426613453
+        },
+        {
+            "color": "",
+            "source": 105,
+            "line": "silver",
+            "target": 106,
+            "avg_delay": 152.84763853209355
+        },
+        {
+            "color": "",
+            "source": 106,
+            "line": "silver",
+            "target": 107,
+            "avg_delay": 105.74377624572962
+        },
+        {
+            "color": "",
+            "source": 107,
+            "line": "silver",
+            "target": 108,
+            "avg_delay": 273.3992203205562
+        },
+        {
+            "color": "",
+            "source": 108,
+            "line": "silver",
+            "target": 109,
+            "avg_delay": 271.37486771456446
+        },
+        {
+            "color": "",
+            "source": 109,
+            "line": "silver",
+            "target": 110,
+            "avg_delay": 103.9635190865999
+        },
+        {
+            "color": "",
+            "source": 7,
+            "line": "silver",
+            "target": 111,
+            "avg_delay": 139.9049643037522
+        },
+        {
+            "color": "",
+            "source": 111,
+            "line": "silver",
+            "target": 112,
+            "avg_delay": 116.08884208726758
+        },
+        {
+            "color": "",
+            "source": 112,
+            "line": "silver",
+            "target": 113,
+            "avg_delay": 162.21525905040275
+        },
+        {
+            "color": "",
+            "source": 40,
+            "line": "silver",
+            "target": 113,
+            "avg_delay": 141.66219127207356
+        },
+        {
+            "color": "",
+            "source": 40,
+            "line": "silver",
+            "target": 114,
+            "avg_delay": 83.84458442666921
+        },
+        {
+            "color": "",
+            "source": 114,
+            "line": "silver",
+            "target": 115,
+            "avg_delay": 442.4335972971891
+        },
+        {
+            "color": "",
+            "source": 115,
+            "line": "silver",
+            "target": 116,
+            "avg_delay": 92.84420070367051
+        },
+        {
+            "color": "",
+            "source": 116,
+            "line": "silver",
+            "target": 117,
+            "avg_delay": 132.65724028001654
+        },
+        {
+            "color": "",
+            "source": 113,
+            "line": "silver",
+            "target": 118,
+            "avg_delay": 84.44523966980232
+        },
+        {
+            "color": "",
+            "source": 118,
+            "line": "silver",
+            "target": 119,
+            "avg_delay": 85.38299063105258
+        },
+        {
+            "color": "",
+            "source": 119,
+            "line": "silver",
+            "target": 120,
+            "avg_delay": 289.0532171315168
+        },
+        {
+            "color": "",
+            "source": 120,
+            "line": "silver",
+            "target": 121,
+            "avg_delay": 126.1065206118437
+        }
+    ]
+}

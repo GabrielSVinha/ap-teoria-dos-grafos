@@ -1,0 +1,259 @@
+Source,Target,Label
+JFK/UMass Station,Andrew Station,87.8411158854
+Andrew Station,JFK/UMass Station,87.8411158854
+Kendall/MIT Station,Charles/MGH Station,131.009611799
+Charles/MGH Station,Kendall/MIT Station,131.009611799
+Andrew Station,Broadway Station,115.832859717
+Broadway Station,Andrew Station,115.832859717
+Quincy Adams Station,Quincy Center Station,125.105786969
+Quincy Center Station,Quincy Adams Station,125.105786969
+Park St. Station,88 Black Falcon Ave,124.738061868
+88 Black Falcon Ave,Park St. Station,124.738061868
+Shawmut Station,Central Square Station,93.8123652545
+Central Square Station,Shawmut Station,93.8123652545
+Porter Square Station,Davis Station,110.978940342
+Davis Station,Porter Square Station,110.978940342
+South Station,Downtown Crossing Station,166.183403531
+Downtown Crossing Station,South Station,166.183403531
+Ashmont Station,Fields Corner Station,142.120753931
+Fields Corner Station,Ashmont Station,142.120753931
+Central Square Station,Harvard Square Station,137.224959951
+Harvard Square Station,Central Square Station,137.224959951
+Savin Hill Station,JFK/UMass Station,151.023864656
+JFK/UMass Station,Savin Hill Station,151.023864656
+88 Black Falcon Ave,Shawmut Station,122.613813239
+Shawmut Station,88 Black Falcon Ave,122.613813239
+Alewife Station,Savin Hill Station,238.95366349
+Savin Hill Station,Alewife Station,238.95366349
+Downtown Crossing Station,Park St. Station,102.261043844
+Park St. Station,Downtown Crossing Station,102.261043844
+Harvard Square Station,Porter Square Station,159.827563443
+Porter Square Station,Harvard Square Station,159.827563443
+Quincy Center Station,Wollaston Station,62.3123554663
+Wollaston Station,Quincy Center Station,62.3123554663
+Wollaston Station,North Quincy Station,179.803870574
+North Quincy Station,Wollaston Station,179.803870574
+Fields Corner Station,Savin Hill Station,179.584777201
+Savin Hill Station,Fields Corner Station,179.584777201
+Charles/MGH Station,Ashmont Station,93.9415434379
+Ashmont Station,Charles/MGH Station,93.9415434379
+Broadway Station,South Station,406.132579996
+South Station,Broadway Station,406.132579996
+North Quincy Station,Alewife Station,119.297240218
+Alewife Station,North Quincy Station,119.297240218
+Massachusetts Ave. Station,Back Bay Station,133.755360202
+Back Bay Station,Massachusetts Ave. Station,133.755360202
+North Station,Community College Station,156.042807644
+Community College Station,North Station,156.042807644
+Braintree Station,South Station,137.565409654
+South Station,Braintree Station,137.565409654
+South Station,Green St. Station,112.291937531
+Green St. Station,South Station,112.291937531
+Chinatown Station,Tufts Medical Center Station,111.737440706
+Tufts Medical Center Station,Chinatown Station,111.737440706
+Tufts Medical Center Station,Forest Hills Station,110.706748078
+Forest Hills Station,Tufts Medical Center Station,110.706748078
+State St. Station,Haymarket Station,94.5095303077
+Haymarket Station,State St. Station,94.5095303077
+Stony Brook Station,Jackson Square Station,130.866840134
+Jackson Square Station,Stony Brook Station,130.866840134
+Ruggles Station,Massachusetts Ave. Station,166.076451385
+Massachusetts Ave. Station,Ruggles Station,166.076451385
+Wellington Station,Malden Center Station,153.976615734
+Malden Center Station,Wellington Station,153.976615734
+Haymarket Station,North Station,148.865340902
+North Station,Haymarket Station,148.865340902
+Jackson Square Station,Roxbury Crossing Station,183.238661262
+Roxbury Crossing Station,Jackson Square Station,183.238661262
+Roxbury Crossing Station,Ruggles Station,173.630825305
+Ruggles Station,Roxbury Crossing Station,173.630825305
+Forest Hills Station,Stony Brook Station,160.099608243
+Stony Brook Station,Forest Hills Station,160.099608243
+Green St. Station,State St. Station,118.778275909
+State St. Station,Green St. Station,118.778275909
+Community College Station,Sullivan Station,161.3121399
+Sullivan Station,Community College Station,161.3121399
+Back Bay Station,Braintree Station,391.340361297
+Braintree Station,Back Bay Station,391.340361297
+Sullivan Station,Wellington Station,124.358218894
+Wellington Station,Sullivan Station,124.358218894
+Oak Grove Station,Orient Heights Station,113.92644024
+Orient Heights Station,Oak Grove Station,113.92644024
+Maverick Station,Revere Beach Station,281.153617624
+Revere Beach Station,Maverick Station,281.153617624
+Wonderland Station,Wood Island Station,150.950015951
+Wood Island Station,Wonderland Station,150.950015951
+Government Center Station,Aquarium Station,151.755192544
+Aquarium Station,Government Center Station,151.755192544
+Aquarium Station,Green St. Station,154.260851875
+Green St. Station,Aquarium Station,154.260851875
+Revere Beach Station,Oak Grove Station,117.889129012
+Oak Grove Station,Revere Beach Station,117.889129012
+Suffolk Downs Station,Beachmont Station,159.631181652
+Beachmont Station,Suffolk Downs Station,159.631181652
+Wood Island Station,Airport Station,82.7778453767
+Airport Station,Wood Island Station,82.7778453767
+Beachmont Station,Wonderland Station,120.155672731
+Wonderland Station,Beachmont Station,120.155672731
+Green St. Station,Maverick Station,109.0157415
+Maverick Station,Green St. Station,109.0157415
+Orient Heights Station,Suffolk Downs Station,274.049638613
+Suffolk Downs Station,Orient Heights Station,274.049638613
+Boylston,Downtown Crossing Station,105.529813276
+Downtown Crossing Station,Boylston,105.529813276
+Downtown Crossing Station,Aquarium Station,329.901005226
+Aquarium Station,Downtown Crossing Station,329.901005226
+Aquarium Station,State St. Station,140.096416327
+State St. Station,Aquarium Station,140.096416327
+State St. Station,Haymarket Station,160.650140563
+Haymarket Station,State St. Station,160.650140563
+Haymarket Station,Boylston,249.851206519
+Boylston,Haymarket Station,249.851206519
+Boylston,Science Park/West End,151.120652101
+Science Park/West End,Boylston,151.120652101
+South Station,Bowdoin Station,128.621577826
+Bowdoin Station,South Station,128.621577826
+Braintree Station,South Station,161.809030308
+South Station,Braintree Station,161.809030308
+Broadway Station,Braintree Station,152.053015453
+Braintree Station,Broadway Station,152.053015453
+Back Bay Station,Braintree Station,82.2705312827
+Braintree Station,Back Bay Station,82.2705312827
+Lechmere,Riverside,158.945482684
+Riverside,Lechmere,158.945482684
+Riverside,Woodland,121.708421926
+Woodland,Riverside,121.708421926
+Woodland,Waban,179.468651106
+Waban,Woodland,179.468651106
+Waban,Eliot,110.018034395
+Eliot,Waban,110.018034395
+Eliot,Newton Highlands,134.275305461
+Newton Highlands,Eliot,134.275305461
+Newton Highlands,Newton Centre,113.812158973
+Newton Centre,Newton Highlands,113.812158973
+Newton Centre,Chestnut Hill,360.743285458
+Chestnut Hill,Newton Centre,360.743285458
+Chestnut Hill,Reservoir,130.431204214
+Reservoir,Chestnut Hill,130.431204214
+Reservoir,Beaconsfield,88.9254748591
+Beaconsfield,Reservoir,88.9254748591
+Beaconsfield,Brookline Hills,113.309899129
+Brookline Hills,Beaconsfield,113.309899129
+Brookline Hills,Brookline Village,113.689017964
+Brookline Village,Brookline Hills,113.689017964
+Brookline Village,Longwood,156.824683737
+Longwood,Brookline Village,156.824683737
+Fenway,Boston College,247.912131649
+Boston College,Fenway,247.912131649
+Boston College,South Street,143.816412411
+South Street,Boston College,143.816412411
+South Street,Chestnut Hill Avenue,129.064487449
+Chestnut Hill Avenue,South Street,129.064487449
+Chestnut Hill Avenue,Chiswick Road,92.2326830937
+Chiswick Road,Chestnut Hill Avenue,92.2326830937
+Chiswick Road,Sutherland Road,102.750110274
+Sutherland Road,Chiswick Road,102.750110274
+Sutherland Road,Washington Street,159.892039172
+Washington Street,Sutherland Road,159.892039172
+Washington Street,Warren Street,286.74576593
+Warren Street,Washington Street,286.74576593
+Warren Street,Allston Street,91.3142966777
+Allston Street,Warren Street,91.3142966777
+Allston Street,Griggs Street,113.710352758
+Griggs Street,Allston Street,113.710352758
+Griggs Street,Harvard Avenue,86.6548167147
+Harvard Avenue,Griggs Street,86.6548167147
+Harvard Avenue,Packards Corner,114.090159876
+Packards Corner,Harvard Avenue,114.090159876
+Packards Corner,Babcock Street,146.454834399
+Babcock Street,Packards Corner,146.454834399
+Pleasant Street,Saint Paul Street,159.034326377
+Saint Paul Street,Pleasant Street,159.034326377
+Saint Paul Street,Boston University West,349.907616429
+Boston University West,Saint Paul Street,349.907616429
+Boston University West,Boston University Central,122.713247117
+Boston University Central,Boston University West,122.713247117
+Boston University Central,Boston University East,107.014602961
+Boston University East,Boston University Central,107.014602961
+Blandford Street,Kenmore,122.367281146
+Kenmore,Blandford Street,122.367281146
+Cleveland Circle,Englewood Avenue,176.652940265
+Englewood Avenue,Cleveland Circle,176.652940265
+Englewood Avenue,Dean Road,301.707900951
+Dean Road,Englewood Avenue,301.707900951
+Dean Road,Tappan Street,157.079245895
+Tappan Street,Dean Road,157.079245895
+Tappan Street,Washington Square,127.643265822
+Washington Square,Tappan Street,127.643265822
+Washington Square,Fairbanks Street,110.693300158
+Fairbanks Street,Washington Square,110.693300158
+Fairbanks Street,Brandon Hall,125.101324715
+Brandon Hall,Fairbanks Street,125.101324715
+Brandon Hall,Summit Avenue,98.6447194867
+Summit Avenue,Brandon Hall,98.6447194867
+Summit Avenue,Coolidge Corner,129.699670729
+Coolidge Corner,Summit Avenue,129.699670729
+Coolidge Corner,Saint Paul Street,130.507747791
+Saint Paul Street,Coolidge Corner,130.507747791
+Saint Paul Street,Kent Street,119.541653582
+Kent Street,Saint Paul Street,119.541653582
+Kent Street,Hawes Street,157.556572457
+Hawes Street,Kent Street,157.556572457
+Longwood,Saint Marys Street,130.046179878
+Saint Marys Street,Longwood,130.046179878
+Boston University East,Saint Marys Street,120.423294323
+Saint Marys Street,Boston University East,120.423294323
+Hawes Street,Saint Marys Street,89.2474910376
+Saint Marys Street,Hawes Street,89.2474910376
+Saint Marys Street,Kenmore,189.358103258
+Kenmore,Saint Marys Street,189.358103258
+Kenmore,Hynes Convention Ctr,102.636784265
+Hynes Convention Ctr,Kenmore,102.636784265
+Hynes Convention Ctr,Copley,103.734078382
+Copley,Hynes Convention Ctr,103.734078382
+Copley,Bowdoin Station,138.368461916
+Bowdoin Station,Copley,138.368461916
+Bowdoin Station,Downtown Crossing Station,143.843172829
+Downtown Crossing Station,Bowdoin Station,143.843172829
+Back Bay Station,Arlington,116.448343769
+Arlington,Back Bay Station,116.448343769
+Arlington,Herald St,131.610341665
+Herald St,Arlington,131.610341665
+Herald St,East Berkeley St,117.106931554
+East Berkeley St,Herald St,117.106931554
+East Berkeley St,Union Park St,181.723284266
+Union Park St,East Berkeley St,181.723284266
+Union Park St,Newton St,152.847638532
+Newton St,Union Park St,152.847638532
+Newton St,Worcester Sq,105.743776246
+Worcester Sq,Newton St,105.743776246
+Worcester Sq,Mass. Ave,273.399220321
+Mass. Ave,Worcester Sq,273.399220321
+Mass. Ave,Lenox St,271.374867715
+Lenox St,Mass. Ave,271.374867715
+Lenox St,Melnea Cass,103.963519087
+Melnea Cass,Lenox St,103.963519087
+Broadway Station,DUDLEY SQ,139.904964304
+DUDLEY SQ,Broadway Station,139.904964304
+DUDLEY SQ,Courthouse,116.088842087
+Courthouse,DUDLEY SQ,116.088842087
+Courthouse,World Trade Center,162.21525905
+World Trade Center,Courthouse,162.21525905
+Oak Grove Station,World Trade Center,141.662191272
+World Trade Center,Oak Grove Station,141.662191272
+Oak Grove Station,Silver Line Way,83.8445844267
+Silver Line Way,Oak Grove Station,83.8445844267
+Silver Line Way,Eastern Ave,442.433597297
+Eastern Ave,Silver Line Way,442.433597297
+Eastern Ave,Box District,92.8442007037
+Box District,Eastern Ave,92.8442007037
+Box District,Bellingham Sq,132.65724028
+Bellingham Sq,Box District,132.65724028
+World Trade Center,Chelsea,84.4452396698
+Chelsea,World Trade Center,84.4452396698
+Chelsea,Harbor St,85.3829906311
+Harbor St,Chelsea,85.3829906311
+Harbor St,Tide St,289.053217132
+Tide St,Harbor St,289.053217132
+Tide St,23 Drydock Ave,126.106520612
+23 Drydock Ave,Tide St,126.106520612
