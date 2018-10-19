@@ -10,6 +10,8 @@ In the [subfolder](data/) there are generated and collected data from boston's m
 
 A sample of the subway graph can be found in this image, the nodes are station which contains turnstile information in it. The edges are connections between station related to a specific line (one station can be connected to multiple stations via multiple lines).
 
+![graph](img/mbta.png)
+
 ## Troubleshooting
 
 Feel free to contact any of the maintainers of this project:
