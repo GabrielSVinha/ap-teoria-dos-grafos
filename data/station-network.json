@@ -407,6 +407,89 @@
     {
       "id": "place-arlin",
       "name": "Arlington"
+<<<<<<< Updated upstream
+=======
+    },
+    {
+      "id": "place-heralst",
+      "name": "Herald St"
+    },
+    {
+      "id": "place-eastbrk",
+      "name": "East Berkeley St"
+    },
+    {
+      "id": "place-unipkst",
+      "name": "Union Park St"
+    },
+    {
+      "id": "place-newtst",
+      "name": "Newton St"
+    },
+    {
+      "id": "place-worcesq",
+      "name": "Worcester Sq"
+    },
+    {
+      "id": "place-massave",
+      "name": "Mass. Ave"
+    },
+    {
+      "id": "place-lenoxst",
+      "name": "Lenox St"
+    },
+    {
+      "id": "place-melncas",
+      "name": "Melnea Cass"
+    },
+    {
+      "id": "place-dudley",
+      "name": "DUDLEY SQ"
+    },
+    {
+      "id": "place-couths",
+      "name": "Courthouse"
+    },
+    {
+      "id": "place-wtcenter",
+      "name": "World Trade Center"
+    },
+    {
+      "id": "place-silverlw",
+      "name": "Silver Line Way"
+    },
+    {
+      "id": "place-easteav",
+      "name": "Eastern Ave"
+    },
+    {
+      "id": "place-boxdis",
+      "name": "Box District"
+    },
+    {
+      "id": "place-bellisq",
+      "name": "Bellingham Sq"
+    },
+    {
+      "id": "place-chelsea",
+      "name": "Chelsea"
+    },
+    {
+      "id": "place-harbost",
+      "name": "Harbor St"
+    },
+    {
+      "id": "place-tidest",
+      "name": "Tide St"
+    },
+    {
+      "id": "place-drydocav",
+      "name": "23 Drydock Ave"
+    },
+    {
+      "id": "place-88bfave",
+      "name": "88 Black Falcon Ave"
+>>>>>>> Stashed changes
     }
   ],
   "links": [
