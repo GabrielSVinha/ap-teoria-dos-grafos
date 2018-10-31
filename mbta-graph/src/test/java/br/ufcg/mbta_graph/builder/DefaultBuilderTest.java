@@ -11,7 +11,6 @@ import org.jgrapht.graph.Multigraph;
 import com.opencsv.CSVReader;
 
 import br.ufcg.mbta_graph.default_builder.DefaultBuilder;
-import br.ufcg.mbta_graph.default_builder.DefaultBuilder.Color;
 import junit.framework.TestCase;
 
 public class DefaultBuilderTest extends TestCase {
