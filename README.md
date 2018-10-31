@@ -1,5 +1,7 @@
 # MBTA - Transport
 
+[![Build Status](https://travis-ci.com/GabrielSVinha/ap-teoria-dos-grafos.svg?branch=master)](https://travis-ci.com/GabrielSVinha/ap-teoria-dos-grafos)
+
 This repo contains a tool to build MBTA (Massachusets Bay Transportation Authority) subway network as a graph. To more info about boston's subway/transportation system, access this [link](https://www.mbta.com/).
 
 ## Data
