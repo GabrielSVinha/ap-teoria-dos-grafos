@@ -39,22 +39,26 @@ public class DefaultBuilder implements Builder {
 		return graph;
 	}
 
+	private enum Color{
+		red, blue, orange, green, silver;
+	}
+	
 	private Integer getColor(String line) {
 		Integer color;
-		switch (line) {
-		case "red":
+		switch (Color.valueOf(Color.class, line)) {
+		case red:
 			color = 0;
 			break;
-		case "blue":
+		case blue:
 			color = 1;
 			break;
-		case "orange":
+		case orange:
 			color = 2;
 			break;
-		case "green":
+		case green:
 			color = 3;
 			break;
-		case "silver":
+		case silver:
 			color = 4;
 			break;
 		default:
