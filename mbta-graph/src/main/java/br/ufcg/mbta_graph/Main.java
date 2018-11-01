@@ -3,7 +3,8 @@ package br.ufcg.mbta_graph;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.DefaultEdge;
 
-import br.ufcg.mbta_graph.builder.Builder;
+import main.java.br.ufcg.mbta_graph.builder.Builder;
+
 
 /**
  * Main
