@@ -12,6 +12,7 @@ import org.jgrapht.graph.Multigraph;
 import com.opencsv.CSVReader;
 
 import br.ufcg.mbta_graph.builder.Builder;
+import main.java.br.ufcg.mbta_graph.default_builder.Color;
 
 public class DefaultBuilder implements Builder {
 	private static final String path = "../data/mbta-delay.csv";
@@ -38,14 +39,10 @@ public class DefaultBuilder implements Builder {
 		}
 		return graph;
 	}
-
-	private enum Color{
-		red, blue, orange, green, silver;
-	}
 	
 	private Integer getColor(String line) {
 		Integer color;
-		switch (Color.valueOf(Color.class, line)) {
+		switch (Color.valueOf(line)) {
 		case red:
 			color = 0;
 			break;

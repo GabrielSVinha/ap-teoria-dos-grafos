@@ -12,6 +12,7 @@ import com.opencsv.CSVReader;
 
 import br.ufcg.mbta_graph.default_builder.DefaultBuilder;
 import junit.framework.TestCase;
+import main.java.br.ufcg.mbta_graph.default_builder.Color;
 
 public class DefaultBuilderTest extends TestCase {
 
@@ -41,14 +42,9 @@ public class DefaultBuilderTest extends TestCase {
 		reader.close();
 	}
 	
-
-	private enum Color{
-		red, blue, orange, green, silver;
-	}
-	
 	private Integer getColor(String line) {
 		Integer color;
-		switch (Color.valueOf(Color.class, line)) {
+		switch (Color.valueOf(line)) {
 		case red:
 			color = 0;
 			break;
