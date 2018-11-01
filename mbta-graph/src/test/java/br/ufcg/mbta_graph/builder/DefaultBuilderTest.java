@@ -51,6 +51,8 @@ public class DefaultBuilderTest extends TestCase {
 			color = 3;
 		} else if(line == "silver") {
 			color = 4;
+		} else {
+			color = 5;
 		}
 		return color;
 	}
