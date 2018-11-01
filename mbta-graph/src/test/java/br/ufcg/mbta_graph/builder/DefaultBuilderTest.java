@@ -41,28 +41,18 @@ public class DefaultBuilderTest extends TestCase {
 		}
 		reader.close();
 	}
-	
 	private Integer getColor(String line) {
 		Integer color;
-		switch (Color.valueOf(line)) {
-		case red:
+		if (line == "red") {
 			color = 0;
-			break;
-		case blue:
+		} else if (line == "blue") {
 			color = 1;
-			break;
-		case orange:
+		} else if (line == "orange") {
 			color = 2;
-			break;
-		case green:
+		} else if (line == "green") {
 			color = 3;
-			break;
-		case silver:
+		} else if(line == "silver") {
 			color = 4;
-			break;
-		default:
-			color = 5;
-			break;
 		}
 		return color;
 	}
