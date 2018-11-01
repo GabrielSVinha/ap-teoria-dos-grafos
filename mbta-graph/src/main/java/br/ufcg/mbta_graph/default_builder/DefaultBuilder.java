@@ -1,18 +1,14 @@
-package br.ufcg.mbta_graph.default_builder;
+package main.java.br.ufcg.mbta_graph.default_builder;
 
 import java.io.FileReader;
 import java.io.IOException;
 
-import org.jgrapht.Graph;
-import org.jgrapht.graph.DefaultDirectedGraph;
-import org.jgrapht.graph.DefaultEdge;
 import org.jgrapht.graph.DefaultWeightedEdge;
 import org.jgrapht.graph.Multigraph;
 
 import com.opencsv.CSVReader;
 
-import br.ufcg.mbta_graph.builder.Builder;
-import main.java.br.ufcg.mbta_graph.default_builder.Color;
+import main.java.br.ufcg.mbta_graph.builder.Builder;
 
 public class DefaultBuilder implements Builder {
 	private static final String path = "../data/mbta-delay.csv";
@@ -52,6 +48,8 @@ public class DefaultBuilder implements Builder {
 			color = 3;
 		} else if(line == "silver") {
 			color = 4;
+		} else {
+			color = 5;
 		}
 		return color;
 	}

@@ -1,7 +1,5 @@
-package br.ufcg.mbta_graph.builder;
+package main.java.br.ufcg.mbta_graph.builder;
 
-import org.jgrapht.Graph;
-import org.jgrapht.graph.DefaultEdge;
 import org.jgrapht.graph.DefaultWeightedEdge;
 import org.jgrapht.graph.Multigraph;
 

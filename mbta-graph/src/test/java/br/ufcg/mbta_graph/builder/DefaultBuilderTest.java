@@ -1,18 +1,16 @@
-package br.ufcg.mbta_graph.builder;
+package test.java.br.ufcg.mbta_graph.builder;
 
 import java.io.FileReader;
 import java.io.IOException;
 
-import org.jgrapht.Graph;
-import org.jgrapht.graph.DefaultEdge;
 import org.jgrapht.graph.DefaultWeightedEdge;
 import org.jgrapht.graph.Multigraph;
 
 import com.opencsv.CSVReader;
 
-import br.ufcg.mbta_graph.default_builder.DefaultBuilder;
 import junit.framework.TestCase;
-import main.java.br.ufcg.mbta_graph.default_builder.Color;
+import main.java.br.ufcg.mbta_graph.builder.Builder;
+import main.java.br.ufcg.mbta_graph.default_builder.DefaultBuilder;
 
 public class DefaultBuilderTest extends TestCase {
 
