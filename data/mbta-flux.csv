@@ -45,8 +45,6 @@ Massachusetts Ave. Station,Back Bay Station,2542
 Back Bay Station,Massachusetts Ave. Station,4432
 North Station,Community College Station,1822
 Community College Station,North Station,1802
-Braintree Station,South Station,1911
-South Station,Braintree Station,981
 South Station,Green St. Station,2383
 Green St. Station,South Station,1911
 Chinatown Station,Tufts Medical Center Station,877
@@ -105,8 +103,6 @@ Downtown Crossing Station,Aquarium Station,2283
 Aquarium Station,Downtown Crossing Station,2857
 Aquarium Station,State St. Station,3960
 State St. Station,Aquarium Station,2283
-State St. Station,Haymarket Station,2419
-Haymarket Station,State St. Station,3960
 Haymarket Station,Boylston,3311
 Boylston,Haymarket Station,2419
 Boylston,Science Park/West End,3596
@@ -117,8 +113,6 @@ Braintree Station,South Station,1911
 South Station,Braintree Station,981
 Broadway Station,Braintree Station,981
 Braintree Station,Broadway Station,3665
-Back Bay Station,Braintree Station,981
-Braintree Station,Back Bay Station,2542
 Lechmere,Riverside,2622
 Riverside,Lechmere,5038
 Riverside,Woodland,520

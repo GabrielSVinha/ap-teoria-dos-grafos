@@ -3,6 +3,8 @@ package test.java.br.ufcg.mbta_graph.builder;
 import java.io.FileReader;
 import java.io.IOException;
 
+import org.jgrapht.graph.DefaultDirectedGraph;
+import org.jgrapht.graph.DefaultDirectedWeightedGraph;
 import org.jgrapht.graph.DefaultWeightedEdge;
 import org.jgrapht.graph.Multigraph;
 
@@ -24,17 +26,14 @@ public class DefaultBuilderTest extends TestCase {
 	}
 
 	public void testBuild() throws IOException {
-		Multigraph<String, DefaultWeightedEdge> graph = this.builder.build();
+		DefaultDirectedWeightedGraph<String, DefaultWeightedEdge> graph = this.builder.build();
 		CSVReader reader = new CSVReader(new FileReader(this.path));
 		String[] line;
 		while ((line = reader.readNext()) != null) {
 			assertTrue(graph.containsVertex(line[0]));
 			assertTrue(graph.containsVertex(line[1]));
 			assertTrue(graph.containsEdge(line[0], line[1]));
-			assertTrue(graph.containsEdge(line[1], line[0]));
-			DefaultWeightedEdge edge = graph.getEdge(line[1], line[0]);
-			assertEquals(graph.getEdgeWeight(edge), (double)this.getColor(line[2]));
-			edge = graph.getEdge(line[0], line[1]);
+			DefaultWeightedEdge edge = graph.getEdge(line[0], line[1]);
 			assertEquals(graph.getEdgeWeight(edge), (double)this.getColor(line[2]));
 		}
 		reader.close();
