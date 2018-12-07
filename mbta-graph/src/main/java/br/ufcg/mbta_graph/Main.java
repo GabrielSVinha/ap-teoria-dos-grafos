@@ -43,8 +43,9 @@ public class Main
 
         System.out.println("3. Dada duas estações, uma de origem e uma de destino, qual o caminho ideal (mais rápido e com menos pessoas)?");
         Object ideal = findMatchedPath(delayGraph, fluxGraph, START, END);
-        //System.out.println(fast);
         System.out.println(ideal);
+        System.out.println();
+        
         System.out.println("4. Dada duas estações, uma de origem e uma de destino, qual o caminho mais utilizado(mais pessoas nos caminhos e estações) ?");
         Object biggest = findBiggestPath(fluxGraph, START, END);
         System.out.println(biggest);
