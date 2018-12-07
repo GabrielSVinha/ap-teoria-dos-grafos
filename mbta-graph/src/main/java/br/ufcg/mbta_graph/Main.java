@@ -4,8 +4,9 @@ import br.ufcg.mbta_graph.delay_builder.DelayBuilder;
 import br.ufcg.mbta_graph.flux_builder.FluxBuilder;
 import org.jgrapht.Graph;
 import org.jgrapht.alg.shortestpath.DijkstraShortestPath;
+import org.jgrapht.alg.shortestpath.KShortestPaths;
 
-import br.ufcg.mbta_graph.builder.Builder;
+import java.util.List;
 
 
 /**
@@ -40,11 +41,11 @@ public class Main
 
         System.out.println("3. Dada duas estações, uma de origem e uma de destino, qual o caminho ideal (mais rápido e com menos pessoas)?");
         //Object fast = findShortestPath(delayGraph, START, END);
-        System.out.println(fast);
+        //System.out.println(fast);
         System.out.println();
         System.out.println("4. Dada duas estações, uma de origem e uma de destino, qual o caminho mais utilizado(mais pessoas nos caminhos e estações) ?");
-        //Object fast = findShortestPath(delayGraph, START, END);
-        System.out.println(fast);
+        Object biggest = findBiggestPath(fluxGraph, START, END);
+        System.out.println(biggest);
         System.out.println();
     }
 
@@ -52,6 +53,13 @@ public class Main
     {
         DijkstraShortestPath dijkstra = new DijkstraShortestPath(graph);
         return dijkstra.getPath(startVertex, endVertex);
+    }
+
+    public static Object findBiggestPath(Graph graph, String startVertex, String endVertex){
+        KShortestPaths allDirect = new KShortestPaths(graph, 50);
+        //Returns the k shortest simple paths in increasing order of weight.
+        List paths = allDirect.getPaths(startVertex, endVertex);
+        return paths.get(paths.size()-1);
     }
 
 }
