@@ -1,4 +1,4 @@
-package main.java.br.ufcg.mbta_graph.default_builder;
+package br.ufcg.mbta_graph.default_builder;
 
 import java.io.FileReader;
 import java.io.IOException;

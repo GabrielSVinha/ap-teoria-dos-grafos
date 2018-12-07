@@ -3,11 +3,14 @@ package br.ufcg.mbta_graph;
 import br.ufcg.mbta_graph.delay_builder.DelayBuilder;
 import br.ufcg.mbta_graph.flux_builder.FluxBuilder;
 import org.jgrapht.Graph;
+import org.jgrapht.GraphPath;
 import org.jgrapht.alg.shortestpath.DijkstraShortestPath;
 import org.jgrapht.alg.shortestpath.KShortestPaths;
 
+import java.util.ArrayList;
 import java.util.List;
 
+import org.jgrapht.graph.DefaultDirectedWeightedGraph;
 
 /**
  * Main
@@ -17,12 +20,11 @@ public class Main
 {
     public static void main( String[] args )
     {
-
         DelayBuilder delay = new DelayBuilder();
         FluxBuilder fluxBuilder = new FluxBuilder();
 
-        Graph delayGraph = delay.build();
-        Graph fluxGraph = fluxBuilder.build();
+        DefaultDirectedWeightedGraph delayGraph = delay.build();
+        DefaultDirectedWeightedGraph fluxGraph = fluxBuilder.build();
 
         final String START = "Eliot";
         final String END = "Haymarket Station";
@@ -40,9 +42,9 @@ public class Main
         System.out.println();
 
         System.out.println("3. Dada duas estações, uma de origem e uma de destino, qual o caminho ideal (mais rápido e com menos pessoas)?");
-        //Object fast = findShortestPath(delayGraph, START, END);
+        Object ideal = findMatchedPath(delayGraph, fluxGraph, START, END);
         //System.out.println(fast);
-        System.out.println();
+        System.out.println(ideal);
         System.out.println("4. Dada duas estações, uma de origem e uma de destino, qual o caminho mais utilizado(mais pessoas nos caminhos e estações) ?");
         Object biggest = findBiggestPath(fluxGraph, START, END);
         System.out.println(biggest);
@@ -60,6 +62,25 @@ public class Main
         //Returns the k shortest simple paths in increasing order of weight.
         List paths = allDirect.getPaths(startVertex, endVertex);
         return paths.get(paths.size()-1);
+    }
+
+    public static Object findMatchedPath(Graph from, Graph to, String startVertex, String endVertex){
+        KShortestPaths fromDirect = new KShortestPaths(from, 50);
+        KShortestPaths toDirect = new KShortestPaths(to, 50);
+        List<GraphPath> fromPaths = fromDirect.getPaths(startVertex, endVertex);
+        List aux = new ArrayList();
+        for (GraphPath p: fromPaths){
+            aux.add(p.toString());
+        }
+        fromPaths = aux;
+        List<GraphPath> toPaths = toDirect.getPaths(startVertex, endVertex);
+        aux = new ArrayList();
+        for (GraphPath p: toPaths){
+            aux.add(p.toString());
+        }
+        toPaths = aux;
+        fromPaths.retainAll(toPaths);
+        return fromPaths.get(0);
     }
 
 }

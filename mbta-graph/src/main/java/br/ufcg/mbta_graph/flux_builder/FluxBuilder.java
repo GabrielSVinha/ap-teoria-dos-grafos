@@ -1,4 +1,4 @@
-package main.java.br.ufcg.mbta_graph.flux_builder;
+package br.ufcg.mbta_graph.flux_builder;
 
 import com.opencsv.CSVReader;
 import org.jgrapht.graph.DefaultDirectedGraph;
@@ -14,7 +14,7 @@ import java.io.IOException;
 
 public class FluxBuilder implements Builder {
 
-    private static final String path = "../data/mbta-flux.csv";
+    private static final String path = "data/mbta-flux.csv";
 
     public DefaultDirectedWeightedGraph<String, DefaultWeightedEdge> build() {
         DefaultDirectedWeightedGraph<String, DefaultWeightedEdge> graph = new DefaultDirectedWeightedGraph<String, DefaultWeightedEdge>(

@@ -12,7 +12,7 @@ import com.opencsv.CSVReader;
 
 import junit.framework.TestCase;
 import main.java.br.ufcg.mbta_graph.builder.Builder;
-import main.java.br.ufcg.mbta_graph.default_builder.DefaultBuilder;
+import br.ufcg.mbta_graph.default_builder.DefaultBuilder;
 
 public class DefaultBuilderTest extends TestCase {
 

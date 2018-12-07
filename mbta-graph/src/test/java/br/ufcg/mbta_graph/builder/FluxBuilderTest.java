@@ -2,7 +2,7 @@ package br.ufcg.mbta_graph.builder;
 
 import com.opencsv.CSVReader;
 import junit.framework.TestCase;
-import main.java.br.ufcg.mbta_graph.flux_builder.FluxBuilder;
+import br.ufcg.mbta_graph.flux_builder.FluxBuilder;
 import org.jgrapht.graph.DefaultDirectedGraph;
 import org.jgrapht.graph.DefaultDirectedWeightedGraph;
 import org.jgrapht.graph.DefaultWeightedEdge;
